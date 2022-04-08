@@ -1,4 +1,12 @@
-### Hello, World! I am Débora 🌱
+### Hello, World! I am Débora 🌻
+
+I am an electronics technician who decided to become a programmer 👩🏼‍💻
+
+* 🎓 I am currently studying Information Systems at University
+* 👩🏻‍💻 I am currently learning HTML, CSS and JavaScript.
+* 📱 I also studied UX Design, Digital Marketing and Digital Product Design.
+* 🌎 I am currently living in Germany
+* ✉️ You can contact me by email lorena_debora@yahoo.com.br or LinkedIn https://www.linkedin.com/in/débora-lorena-1174771ab/ 
 
 <!--
 **DeboraLSouza/DeboraLSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
